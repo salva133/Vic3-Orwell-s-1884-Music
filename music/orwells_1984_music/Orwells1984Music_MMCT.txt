@@ -13,7 +13,6 @@
 #NOTE: this tool does not generate code for event-triggered music. If you want it, you will need to do this yourself... sorry!
 
 orwell_01 = {
-    name = "1984 End Titles"
     music = "file:/music/End-Titles_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
@@ -25,7 +24,6 @@ orwell_01 = {
 }
 
 orwell_02 = {
-    name = "Tis for Thee - Aged Version"
     music = "file:/music/Oceania-_Tis-for-Thee-_edited-_-aged-version_-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
@@ -37,7 +35,6 @@ orwell_02 = {
 }
 
 orwell_03 = {
-    name = "Tis for Thee - Enhanced Version"
     music = "file:/music/Oceania-_Tis-for-Thee-_Edited-_-Enhanced_-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
@@ -49,7 +46,6 @@ orwell_03 = {
 }
 
 orwell_04 = {
-    name = "Tis for Thee - Female Vocals"
     music = "file:/music/Oceania-_Tis-for-Thee-_Female-vocals_-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
@@ -61,7 +57,6 @@ orwell_04 = {
 }
 
 orwell_05 = {
-    name = "The Place Where There Is No Darkness"
     music = "file:/music/The-Place-Where-There-Is-No-Darkness_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
@@ -73,7 +68,6 @@ orwell_05 = {
 }
 
 orwell_06 = {
-    name = "The Place Where There Is No Darkness - Extended"
     music = "file:/music/The-Place-Where-There-Is-No-Darkness_-from-Nineteen-Eighty-Four-_extended_-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
@@ -85,7 +79,6 @@ orwell_06 = {
 }
 
 orwell_07 = {
-    name = "This Is Our Land"
     music = "file:/music/This-is-our-land_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
@@ -97,7 +90,6 @@ orwell_07 = {
 }
 
 orwell_08 = {
-    name = "Thoughtcrime"
     music = "file:/music/Thoughtcrime_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
@@ -109,7 +101,6 @@ orwell_08 = {
 }
 
 orwell_09 = {
-    name = "Victory March"
     music = "file:/music/Victory-March_-from-Nineteen-Eighty-Four-_edited-version_-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
@@ -121,7 +112,6 @@ orwell_09 = {
 }
 
 orwell_10 = {
-    name = "Winston Meets O'Brien"
     music = "file:/music/Winston-meets-O_brien_-from-Nineteen-Eighty-Four-_192kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
