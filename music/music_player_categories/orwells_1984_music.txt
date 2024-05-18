@@ -1,6 +1,6 @@
 category = {
-	id = "id_orwells_1984_music"
-	name = "Orwell's 1984 Music"
+	id = "orw_id"
+	name = "orw_soundtrackname"
 	tracks = {
 		"orwell_01"
 		"orwell_02"
