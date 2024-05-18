@@ -1,0 +1,16 @@
+category = {
+	id = "id_orwells_1984_music"
+	name = "Orwell's 1984 Music"
+	tracks = {
+		"orwell_01"
+		"orwell_02"
+		"orwell_03"
+		"orwell_04"
+		"orwell_05"
+		"orwell_06"
+		"orwell_07"
+		"orwell_08"
+		"orwell_09"
+		"orwell_10"
+	}
+}
