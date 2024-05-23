@@ -13,7 +13,7 @@
 #NOTE: this tool does not generate code for event-triggered music. If you want it, you will need to do this yourself... sorry!
 
 orwell_01 = {
-    music = "file:/music/End-Titles_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
+    music = "/music/orwells_1984_music/End-Titles_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
     can_be_interrupted = yes
@@ -24,7 +24,7 @@ orwell_01 = {
 }
 
 orwell_02 = {
-    music = "file:/music/Oceania-_Tis-for-Thee-_edited-_-aged-version_-_128kbit_AAC_.ogg"
+    music = "/music/orwells_1984_music/Oceania-_Tis-for-Thee-_edited-_-aged-version_-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
     can_be_interrupted = yes
@@ -35,7 +35,7 @@ orwell_02 = {
 }
 
 orwell_03 = {
-    music = "file:/music/Oceania-_Tis-for-Thee-_Edited-_-Enhanced_-_128kbit_AAC_.ogg"
+    music = "/music/orwells_1984_music/Oceania-_Tis-for-Thee-_Edited-_-Enhanced_-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
     can_be_interrupted = yes
@@ -46,7 +46,7 @@ orwell_03 = {
 }
 
 orwell_04 = {
-    music = "file:/music/Oceania-_Tis-for-Thee-_Female-vocals_-_128kbit_AAC_.ogg"
+    music = "/music/orwells_1984_music/Oceania-_Tis-for-Thee-_Female-vocals_-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
     can_be_interrupted = yes
@@ -57,7 +57,7 @@ orwell_04 = {
 }
 
 orwell_05 = {
-    music = "file:/music/The-Place-Where-There-Is-No-Darkness_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
+    music = "/music/orwells_1984_music/The-Place-Where-There-Is-No-Darkness_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
     can_be_interrupted = yes
@@ -68,7 +68,7 @@ orwell_05 = {
 }
 
 orwell_06 = {
-    music = "file:/music/The-Place-Where-There-Is-No-Darkness_-from-Nineteen-Eighty-Four-_extended_-_128kbit_AAC_.ogg"
+    music = "/music/orwells_1984_music/The-Place-Where-There-Is-No-Darkness_-from-Nineteen-Eighty-Four-_extended_-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
     can_be_interrupted = yes
@@ -79,7 +79,7 @@ orwell_06 = {
 }
 
 orwell_07 = {
-    music = "file:/music/This-is-our-land_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
+    music = "/music/orwells_1984_music/This-is-our-land_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
     can_be_interrupted = yes
@@ -90,7 +90,7 @@ orwell_07 = {
 }
 
 orwell_08 = {
-    music = "file:/music/Thoughtcrime_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
+    music = "/music/orwells_1984_music/Thoughtcrime_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
     can_be_interrupted = yes
@@ -101,7 +101,7 @@ orwell_08 = {
 }
 
 orwell_09 = {
-    music = "file:/music/Victory-March_-from-Nineteen-Eighty-Four-_edited-version_-_128kbit_AAC_.ogg"
+    music = "/music/orwells_1984_music/Victory-March_-from-Nineteen-Eighty-Four-_edited-version_-_128kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
     can_be_interrupted = yes
@@ -112,7 +112,7 @@ orwell_09 = {
 }
 
 orwell_10 = {
-    music = "file:/music/Winston-meets-O_brien_-from-Nineteen-Eighty-Four-_192kbit_AAC_.ogg"
+    music = "/music/orwells_1984_music/Winston-meets-O_brien_-from-Nineteen-Eighty-Four-_192kbit_AAC_.ogg"
     pause_factor = 25
     mood = yes
     can_be_interrupted = yes
@@ -120,4 +120,15 @@ orwell_10 = {
     #is_valid = { 
       #is_at_war = no #example modifier: music will not play when at war (is_at_war modifier tbc)
     #}
+}
+
+orwell_11 = {
+  music = "/music/orwells_1984_music/Anthem of the Union of Socialist Eurasia Eurasia Forever.ogg"
+  pause_factor = 25
+  mood = yes
+  can_be_interrupted = yes
+  is_prioritized_mood = no
+  #is_valid = { 
+    #is_at_war = no #example modifier: music will not play when at war (is_at_war modifier tbc)
+  #}
 }
