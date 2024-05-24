@@ -1,8 +1,8 @@
 {
   "name" : "Orwell's 1884 Music",
   "id" : "",
-  "version" : "",
-  "supported_game_version" : "",
+  "version" : "1.0",
+  "supported_game_version" : "1.6.2",
   "short_description" : "",
   "tags" : [],
   "relationships" : [],
