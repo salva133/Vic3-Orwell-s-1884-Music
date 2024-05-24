@@ -1,0 +1,62 @@
+orwell_01 = {
+	music = "file:/music/orwells_1984_music/End-Titles_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
+	name = "orwell_01"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_02 = {
+	music = "file:/music/orwells_1984_music/Oceania-_Tis-for-Thee-_Edited-_-Enhanced_-_128kbit_AAC_.ogg"
+	name = "orwell_02"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_03 = {
+	music = "file:/music/orwells_1984_music/Oceania-_Tis-for-Thee-_Female-vocals_-_128kbit_AAC_.ogg"
+	name = "orwell_03"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_04 = {
+	music = "file:/music/orwells_1984_music/The-Place-Where-There-Is-No-Darkness_-from-Nineteen-Eighty-Four-_extended_-_128kbit_AAC_.ogg"
+	name = "orwell_04"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_05 = {
+	music = "file:/music/orwells_1984_music/This-is-our-land_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
+	name = "orwell_05"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_06 = {
+	music = "file:/music/orwells_1984_music/Victory-March_-from-Nineteen-Eighty-Four-_edited-version_-_128kbit_AAC_.ogg"
+	name = "orwell_06"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_07 = {
+	music = "file:/music/orwells_1984_music/Anthem of the Union of Socialist Eurasia Eurasia Forever.ogg"
+	name = "orwell_07"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
