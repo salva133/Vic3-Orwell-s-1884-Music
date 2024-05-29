@@ -1,0 +1,7 @@
+Make sure you have python, pydub and ffmpeg installed on your machine.
+If not, you can look up the install instruction of all three.
+
+
+1. Insert the audio files you want to have converted to OGG to here
+2. Fire up the PY file
+3. Move the newly created .ogg one level up
