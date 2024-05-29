@@ -22,5 +22,6 @@ save_game_analysis.txt
 settings_layout.txt
 *.code-workspace
 *.py
+*.wav
 
 !convert_all_audio_to_ogg.py
