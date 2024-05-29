@@ -10,5 +10,6 @@ category = {
 		"orwell_05"
 		"orwell_06"
 		"orwell_07"
+		"orwell_08"
 	}
 }
