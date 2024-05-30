@@ -346,14 +346,14 @@ types music_player_types
 				}
 			}
 
-			#  ### VICTORIA 3 SOUNDTRACK
-			# music_category_button = {
-			# 	visible = "[MusicPlayerCategory.HasTexture]"
+			 ### VICTORIA 3 SOUNDTRACK
+			music_category_button = {
+				visible = "[MusicPlayerCategory.HasTexture]"
 	
-			# 	blockoverride "button_texture" {
-			# 		texture = "[MusicPlayerCategory.GetTexture]"
-			# 	}
-			# }
+				blockoverride "button_texture" {
+					texture = "[MusicPlayerCategory.GetTexture]"
+				}
+			}
 
 			icon = {
 				visible = "[MusicPlayer.IsSelectedCategory( MusicPlayerCategory.Self )]"
