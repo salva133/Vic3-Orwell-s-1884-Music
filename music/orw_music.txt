@@ -69,3 +69,75 @@ orwell_08 = {
 	can_be_interrupted = yes
 	is_prioritized_mood = no
 }
+
+orwell_09 = {
+	music = "file:/music/orwells_1984_music/Mood_1.ogg"
+	name = "orwell_09"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_10 = {
+	music = "file:/music/orwells_1984_music/Mood_2.ogg"
+	name = "orwell_10"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_11 = {
+	music = "file:/music/orwells_1984_music/Safe and Sound.ogg"
+	name = "orwell_11"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_12 = {
+	music = "file:/music/orwells_1984_music/Our Great Leader.ogg"
+	name = "orwell_12"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_13 = {
+	music = "file:/music/orwells_1984_music/Our little village_zh.ogg"
+	name = "orwell_13"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_14 = {
+	music = "file:/music/orwells_1984_music/Our party.ogg"
+	name = "orwell_14"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_15 = {
+	music = "file:/music/orwells_1984_music/Song of China.ogg"
+	name = "orwell_15"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
+
+orwell_16 = {
+	music = "file:/music/orwells_1984_music/Dedicated to the Great Leader.ogg"
+	name = "orwell_16"
+	pause_factor = 25
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = no
+}
