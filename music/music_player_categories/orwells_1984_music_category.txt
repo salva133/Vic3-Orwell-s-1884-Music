@@ -19,5 +19,11 @@ category = {
 		"orwell_14"
 		"orwell_15"
 		"orwell_16"
+		"orwell_17"
+		"orwell_18"
+		"orwell_19"
+		"orwell_20"
+		"orwell_21"
+		"orwell_22"
 	}
 }
