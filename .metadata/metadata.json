@@ -1,11 +1,11 @@
 {
   "name" : "Orwell's 1884 Music",
-  "id" : "",
+  "id" : "3341349338",
   "version" : "1.0",
   "supported_game_version" : "1.7.*",
   "short_description" : "",
   "tags" : [],
-  "relationships" : [],
+  "relationships" : [3341347918],
   "game_custom_data" : {
     "multiplayer_synchronized" : true
   }
