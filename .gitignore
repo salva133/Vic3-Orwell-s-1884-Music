@@ -19,3 +19,5 @@ rotate_glow_mask3.tga
 save_game_analysis.txt
 settings_layout.txt
 *.code-workspace
+*.wav
+*.mp3
