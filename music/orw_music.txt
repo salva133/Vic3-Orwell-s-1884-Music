@@ -1,5 +1,5 @@
 orwell_01 = {
-	music = "file:/music/orwells_1984_music/01_End-Titles_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
+	music = "file:/music/orwells_1984_music/01_Defender la libertad (Defending Freedom).ogg"
 	name = "orwell_01"
 	pause_factor = 25
 	mood = yes
@@ -8,7 +8,7 @@ orwell_01 = {
 }
 
 orwell_02 = {
-	music = "file:/music/orwells_1984_music/02_Oceania-_Tis-for-Thee-_Edited-_-Enhanced_-_128kbit_AAC_.ogg"
+	music = "file:/music/orwells_1984_music/02_Under Big Brother's Eye.ogg"
 	name = "orwell_02"
 	pause_factor = 25
 	mood = yes
@@ -17,7 +17,7 @@ orwell_02 = {
 }
 
 orwell_03 = {
-	music = "file:/music/orwells_1984_music/03_Oceania-_Tis-for-Thee-_Female-vocals_-_128kbit_AAC_.ogg"
+	music = "file:/music/orwells_1984_music/03_中华之歌 (Song of China).ogg"
 	name = "orwell_03"
 	pause_factor = 25
 	mood = yes
@@ -26,7 +26,7 @@ orwell_03 = {
 }
 
 orwell_04 = {
-	music = "file:/music/orwells_1984_music/04_The-Place-Where-There-Is-No-Darkness_-from-Nineteen-Eighty-Four-_extended_-_128kbit_AAC_.ogg"
+	music = "file:/music/orwells_1984_music/04_献给伟大领袖 (Dedicated to the Great Leader).ogg"
 	name = "orwell_04"
 	pause_factor = 25
 	mood = yes
@@ -35,7 +35,7 @@ orwell_04 = {
 }
 
 orwell_05 = {
-	music = "file:/music/orwells_1984_music/05_This-is-our-land_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
+	music = "file:/music/orwells_1984_music/05_偉大なる指導者 (Great Leaders).ogg"
 	name = "orwell_05"
 	pause_factor = 25
 	mood = yes
@@ -44,7 +44,7 @@ orwell_05 = {
 }
 
 orwell_06 = {
-	music = "file:/music/orwells_1984_music/06_Victory-March_-from-Nineteen-Eighty-Four-_edited-version_-_128kbit_AAC_.ogg"
+	music = "file:/music/orwells_1984_music/06_偉大なる指導者 (Great Leaders) - Power Metal.ogg"
 	name = "orwell_06"
 	pause_factor = 25
 	mood = yes
@@ -53,7 +53,7 @@ orwell_06 = {
 }
 
 orwell_07 = {
-	music = "file:/music/orwells_1984_music/07_Anthem of the Eurasian Federation.ogg"
+	music = "file:/music/orwells_1984_music/07_Safe and Sound.ogg"
 	name = "orwell_07"
 	pause_factor = 25
 	mood = yes
@@ -71,7 +71,7 @@ orwell_08 = {
 }
 
 orwell_09 = {
-	music = "file:/music/orwells_1984_music/09_Mood_1.ogg"
+	music = "file:/music/orwells_1984_music/09_Pour Notre Roi (For Our King).ogg"
 	name = "orwell_09"
 	pause_factor = 25
 	mood = yes
@@ -80,7 +80,7 @@ orwell_09 = {
 }
 
 orwell_10 = {
-	music = "file:/music/orwells_1984_music/10_Mood_2.ogg"
+	music = "file:/music/orwells_1984_music/10_Für unseren Bund (For Our Confederation).ogg"
 	name = "orwell_10"
 	pause_factor = 25
 	mood = yes
@@ -88,108 +88,81 @@ orwell_10 = {
 	is_prioritized_mood = no
 }
 
-orwell_11 = {
-	music = "file:/music/orwells_1984_music/11_Safe and Sound.ogg"
-	name = "orwell_11"
+orwell_92 = {
+	music = "file:/music/orwells_1984_music/92_End-Titles_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
+	name = "orwell_92"
 	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 	is_prioritized_mood = no
 }
 
-orwell_12 = {
-	music = "file:/music/orwells_1984_music/12_Our Great Leader.ogg"
-	name = "orwell_12"
+orwell_93 = {
+	music = "file:/music/orwells_1984_music/93_Oceania-_Tis-for-Thee-_Edited-_-Enhanced_-_128kbit_AAC_.ogg"
+	name = "orwell_93"
 	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 	is_prioritized_mood = no
 }
 
-orwell_13 = {
-	music = "file:/music/orwells_1984_music/13_Our little village_zh.ogg"
-	name = "orwell_13"
+orwell_94 = {
+	music = "file:/music/orwells_1984_music/94_Oceania-_Tis-for-Thee-_Female-vocals_-_128kbit_AAC_.ogg"
+	name = "orwell_94"
 	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 	is_prioritized_mood = no
 }
 
-orwell_14 = {
-	music = "file:/music/orwells_1984_music/14_Our party.ogg"
-	name = "orwell_14"
+orwell_95 = {
+	music = "file:/music/orwells_1984_music/95_Anthem of the Eurasian Federation.ogg"
+	name = "orwell_95"
 	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 	is_prioritized_mood = no
 }
 
-orwell_15 = {
-	music = "file:/music/orwells_1984_music/15_Song of China.ogg"
-	name = "orwell_15"
+orwell_96 = {
+	music = "file:/music/orwells_1984_music/96_The-Place-Where-There-Is-No-Darkness_-from-Nineteen-Eighty-Four-_extended_-_128kbit_AAC_.ogg"
+	name = "orwell_96"
 	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 	is_prioritized_mood = no
 }
 
-orwell_16 = {
-	music = "file:/music/orwells_1984_music/16_Dedicated to the Great Leader.ogg"
-	name = "orwell_16"
+orwell_97 = {
+	music = "file:/music/orwells_1984_music/97_This-is-our-land_-from-Nineteen-Eighty-Four-_128kbit_AAC_.ogg"
+	name = "orwell_97"
 	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 	is_prioritized_mood = no
 }
 
-orwell_17 = {
-	music = "file:/music/orwells_1984_music/17_Defending Freedom.ogg"
-	name = "orwell_17"
+orwell_98 = {
+	music = "file:/music/orwells_1984_music/98_Victory-March_-from-Nineteen-Eighty-Four-_edited-version_-_128kbit_AAC_.ogg"
+	name = "orwell_98"
 	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 	is_prioritized_mood = no
 }
 
-orwell_18 = {
-	music = "file:/music/orwells_1984_music/18_For Our Confederation.ogg"
-	name = "orwell_18"
+orwell_991 = {
+	music = "file:/music/orwells_1984_music/99_Mood_1.ogg"
+	name = "orwell_991"
 	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 	is_prioritized_mood = no
 }
 
-orwell_19 = {
-	music = "file:/music/orwells_1984_music/19_Pour Notre Roi (For Our King).ogg"
-	name = "orwell_19"
-	pause_factor = 25
-	mood = yes
-	can_be_interrupted = yes
-	is_prioritized_mood = no
-}
-
-orwell_20 = {
-	music = "file:/music/orwells_1984_music/20_Scotland United and Free.ogg"
-	name = "orwell_20"
-	pause_factor = 25
-	mood = yes
-	can_be_interrupted = yes
-	is_prioritized_mood = no
-}
-
-orwell_21 = {
-	music = "file:/music/orwells_1984_music/21_Under Big Brother's Eye.ogg"
-	name = "orwell_21"
-	pause_factor = 25
-	mood = yes
-	can_be_interrupted = yes
-	is_prioritized_mood = no
-}
-
-orwell_22 = {
-	music = "file:/music/orwells_1984_music/22_Unidos e Fortes (United and Strong).ogg"
-	name = "orwell_22"
+orwell_992 = {
+	music = "file:/music/orwells_1984_music/99_Mood_2.ogg"
+	name = "orwell_992"
 	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
