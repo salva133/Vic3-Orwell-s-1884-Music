@@ -5,8 +5,6 @@ soundtrack/
 fonts/
 map_data/
 
-!convertus/*
-
 checksum_manifest.txt
 compound_settings.txt
 credits.txt
@@ -21,7 +19,3 @@ rotate_glow_mask3.tga
 save_game_analysis.txt
 settings_layout.txt
 *.code-workspace
-*.py
-*.wav
-
-!convert_all_audio_to_ogg.py
