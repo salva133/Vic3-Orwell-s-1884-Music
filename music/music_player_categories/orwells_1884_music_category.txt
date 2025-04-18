@@ -1,6 +1,6 @@
 category = {
 	id = "orw_id"
-	name = "orwells_1984_soundtrack"
+	name = "orwells_1884_soundtrack"
 	texture = "Orwell's 1884 Music/gfx/interface/illustrations/music_player/orw.dds"
 	tracks = {
 		"orwell_01"
